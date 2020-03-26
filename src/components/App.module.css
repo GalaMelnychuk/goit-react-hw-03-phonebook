@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.headerPhone {
+  margin: 30px;
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+}
